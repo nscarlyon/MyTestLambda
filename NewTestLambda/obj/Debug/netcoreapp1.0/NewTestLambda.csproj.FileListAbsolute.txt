@@ -1,0 +1,8 @@
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\bin\Debug\netcoreapp1.0\NewTestLambda.deps.json
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\bin\Debug\netcoreapp1.0\NewTestLambda.dll
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\bin\Debug\netcoreapp1.0\NewTestLambda.pdb
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\obj\Debug\netcoreapp1.0\NewTestLambda.csprojResolveAssemblyReference.cache
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\obj\Debug\netcoreapp1.0\NewTestLambda.csproj.CoreCompileInputs.cache
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\obj\Debug\netcoreapp1.0\NewTestLambda.AssemblyInfo.cs
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\obj\Debug\netcoreapp1.0\NewTestLambda.dll
+C:\Users\nscarlyon\Documents\Visual Studio 2017\Projects\TDDPractice\NewTestLambda\NewTestLambda\obj\Debug\netcoreapp1.0\NewTestLambda.pdb
