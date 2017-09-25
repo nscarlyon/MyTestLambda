@@ -9,5 +9,5 @@ phases:
       - zip ../../../../MyProject.zip *
       - cd ../../../..
       - /root/bin/aws lambda update-function-code 
-      --function-name MyTestLambda 
+      --function-name: MyTestLambda 
       --zip-file fileb://MyProject.zip
